@@ -1,4 +1,4 @@
-![轮子猫](https://user-images.githubusercontent.com/12481194/161090288-4e8e1ed7-885c-4202-82ad-2372a3834129.jpeg)
+![轮子猫](https://user-images.githubusercontent.com/12481194/161090897-a6f33c34-3689-422c-a38b-ae9c4622db9a.jpeg)
 
 <!-- 标题：居中 -->
 <h3 align="center">轮子🐱的博客</h3>
