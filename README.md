@@ -25,4 +25,4 @@
 
 一篇好文章可以帮助你节省大量的时间，而你的时间是相当宝贵的。 向文章的作者提供小额捐助，可以鼓励作者写出更好的文章。这是一种良性循环，现在就行动吧！ 鼓励留言，让我认识你。
 
-![7751648738937_ pic](https://user-images.githubusercontent.com/12481194/161087011-5bfb8c3c-13b3-44e3-bb95-c8e231318242.jpg)
+![收款码](https://user-images.githubusercontent.com/12481194/161088975-69f57147-bf86-4e14-90e2-ef9465ef553b.jpeg)
