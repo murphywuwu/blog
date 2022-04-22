@@ -41,6 +41,16 @@
 
 - [ ] 从 0 到 1，学会调试 react 源码
 
+### 7 天造一个 react
+
+- [ ] 【7 天造一个 react】第一天，react 实现指南：2 步，带你 say hello
+- [ ] 【7 天造一个 react】第二天，支持渲染复杂虚拟 DOM 树
+- [ ] 【7 天造一个 react】第三天，10+行代码，支持组件化编程
+- [ ] 【7 天造一个 react】第四天，useState vs setState
+- [ ] 【7 天造一个 react】第五天，useEffect 与生命周期
+- [ ] 【7 天造一个 react】第六天，实现合成事件
+- [ ] 【7 天造一个 react】第七天，性能优化全解
+
 ## 📖 文章
 
 1. [7 个 nodejs 小实战，带你彻底了解 http 缓存
